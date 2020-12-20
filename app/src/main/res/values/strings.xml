@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ibrahimAlsuwailem_se416project</string>
+    <string-array name="cities">
+        <item>Riyadh</item>
+        <item>London</item>
+    </string-array>
+</resources>
